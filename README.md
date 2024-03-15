@@ -1,5 +1,5 @@
 # ROCKBUSTER STEALTH LLC SQL
-Contains a presentation for the business managers of Rockbuster Stealth LLC, as well as an Excel file for technical colleagues with SQL queries written.
+Contains a presentation for the business managers of Rockbuster Stealth LLC, the data dictionary, as well as an Excel file for technical colleagues with SQL queries written.
 
 Objective:
 Rockbuster Stealth LLC is a movie rental company that used to have stores around the world. Facing stiff competition from streaming services such as Netflix and Amazon Prime, the Rockbuster Stealth management team is planning to use its existing movie licenses to launch an online video rental service in order to stay competitive.
