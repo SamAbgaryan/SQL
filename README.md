@@ -18,5 +18,4 @@ Tools:
 The data was analyzed using a relational database management system and PostgreSQL.
 
 Visualizations:
-All visualizations were created in Tableau Public and may be viewed by following the [link]
-(https://public.tableau.com/app/profile/sam.abgaryan/viz/RockbusterStealthLLCFinalPresentation/ROCKBUSTER#1/).
+All visualizations were created in Tableau Public and may be viewed by following the [link](https://public.tableau.com/app/profile/sam.abgaryan/viz/RockbusterStealthLLCFinalPresentation/ROCKBUSTER#1/)
