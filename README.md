@@ -19,4 +19,4 @@ The data was analyzed using a relational database management system and PostgreS
 
 Visualizations:
 All visualizations were created in Tableau Public and may be viewed by following the [link]
-(https://public.tableau.com/app/profile/sam.abgaryan/viz/RockbusterStealthLLCFinalPresentation/ROCKBUSTER#1).
+(https://public.tableau.com/app/profile/sam.abgaryan/viz/RockbusterStealthLLCFinalPresentation/ROCKBUSTER#1/).
