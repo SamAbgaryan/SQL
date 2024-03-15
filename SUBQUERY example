@@ -1,0 +1,13 @@
+#Subquery to find the top performing cities in the top ten countries found beforehand:
+
+SELECT D.country,C.city,
+COUNT(A.customer_id) AS number_of_customers
+FROM customer A
+FULL JOIN address B ON A.address_id=B.address_id
+FULL JOIN city C ON B.city_id=C.city_id
+FULL JOIN country D ON C.country_id=D.country_id
+WHERE
+	D.country IN ('India','China','United States','Japan','Mexico','Brazil','Russian Federation','Phillippines','Turkey','Indonesia')
+GROUP BY D.country,C.city
+ORDER BY number_of_customers DESC
+LIMIT 10;
